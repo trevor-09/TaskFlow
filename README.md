@@ -82,14 +82,20 @@ Backend will run at `http://localhost:8080`
 
 ## 📸 Screenshots
 
-### 🔐 Sign Up Page
-![Sign Up](./screenshots/Screenshot 2025-07-03 221245.png)
+## 📷 Screenshots
+
+### 🔐 Signup Page
+![Signup Page](https://github.com/trevor-09/TaskFlow/blob/main/screenshots/Screenshot%202025-07-03%20221245.png?raw=true)
+
+---
 
 ### 🔑 Login Page
-![Login](./screenshots/Screenshot 2025-07-03 221235.png)
+![Login Page](https://github.com/trevor-09/TaskFlow/blob/main/screenshots/Screenshot%202025-07-03%20221235.png?raw=true)
+
+---
 
 ### 🗂️ Task Dashboard
-![Dashboard](./screenshots/Screenshot 2025-07-03 221951.png)
+![Dashboard](https://github.com/trevor-09/TaskFlow/blob/main/screenshots/Screenshot%202025-07-03%20221951.png?raw=true)
 
 
 

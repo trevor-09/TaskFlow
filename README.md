@@ -94,7 +94,7 @@ Built as part of a full-stack bootcamp project, the goal of TaskFlow is to demon
 
 ## 🪄 License
 
-This project is open-source and available for educational and personal portfolio use. Feel free to fork, modify, and build upon it.
+This project is open-source and available for educational and personal portfolio use.
 
 ---
 

@@ -36,10 +36,10 @@ Welcome to **TaskFlow**, a clean and simple task management web app built with t
 
 ## 📁 Repositories
 
-| Part        | Repository Link                                           |
-| ----------- | --------------------------------------------------------- |
-| 🌐 Frontend | [ToDoFrontend](https://github.com/trevor-09/ToDoFrontend) |
-| ⚙️ Backend  | [ToDoBackend](https://github.com/trevor-09/ToDoBackend)   |
+| Part        | Repository Link                                                   |
+| ----------- | ----------------------------------------------------------------- |
+| 🌐 Frontend | [TaskFlow-Frontend](https://github.com/trevor-09/TaskFlow-Frontend) |
+| ⚙️ Backend  | [TaskFlow-Backend](https://github.com/trevor-09/TaskFlow-Backend)   |
 
 ---
 

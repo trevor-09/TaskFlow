@@ -24,22 +24,22 @@ Welcome to **TaskFlow**, a clean and simple task management web app built with t
 
 ## 🖥️ Tech Stack
 
-| Layer    | Tech                                |
-| -------- | ----------------------------------- |
-| Frontend | React, Tailwind CSS, React Router   |
-| Backend  | Node.js, Express.js                 |
-| Database | MongoDB Atlas                       |
-| Auth     | JWT, bcryptjs                       |
-| Hosting  | Vercel (Frontend), Render (Backend) |
+| Layer    | Tech                              |
+| -------- | --------------------------------- |
+| Frontend | React, Tailwind CSS, React Router |
+| Backend  | Node.js, Express.js               |
+| Database | MongoDB Atlas                     |
+| Auth     | JWT, bcryptjs                     |
+| Hosting  | Render (Frontend + Backend)       |
 
 ---
 
 ## 📁 Repositories
 
-| Part        | Repository Link                                                        |
-| ----------- | ---------------------------------------------------------------------- |
-| 🌐 Frontend | [taskflow-frontend](https://github.com/yourusername/taskflow-frontend) |
-| ⚙️ Backend  | [taskflow-backend](https://github.com/yourusername/taskflow-backend)   |
+| Part        | Repository Link                                           |
+| ----------- | --------------------------------------------------------- |
+| 🌐 Frontend | [ToDoFrontend](https://github.com/trevor-09/ToDoFrontend) |
+| ⚙️ Backend  | [ToDoBackend](https://github.com/trevor-09/ToDoBackend)   |
 
 ---
 
@@ -48,14 +48,14 @@ Welcome to **TaskFlow**, a clean and simple task management web app built with t
 ### 1. Clone Both Repos:
 
 ```bash
-git clone https://github.com/yourusername/taskflow-frontend.git
-git clone https://github.com/yourusername/taskflow-backend.git
+git clone https://github.com/trevor-09/ToDoFrontend.git
+git clone https://github.com/trevor-09/ToDoBackend.git
 ```
 
 ### 2. Run Backend:
 
 ```bash
-cd taskflow-backend
+cd ToDoBackend
 npm install
 node index.js
 ```
@@ -70,7 +70,7 @@ JWT_SECRET=your_jwt_secret
 ### 3. Run Frontend:
 
 ```bash
-cd ../taskflow-frontend
+cd ../ToDoFrontend
 npm install
 npm start
 ```

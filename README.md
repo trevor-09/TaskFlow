@@ -80,8 +80,6 @@ Backend will run at `http://localhost:8080`
 
 ---
 
-## 📸 Screenshots
-
 ## 📷 Screenshots
 
 ### 🔐 Signup Page

@@ -82,7 +82,16 @@ Backend will run at `http://localhost:8080`
 
 ## 📸 Screenshots
 
-*Insert task list screenshot, login/signup page here if needed*
+### 🔐 Sign Up Page
+![Sign Up](./screenshots/Screenshot 2025-07-03 221245)
+
+### 🗂️ Login Page
+![Login](./screenshots/Screenshot 2025-07-03 221235)
+
+### 🗂️ Task Dashboard
+![Dashboard](./screenshots/Screenshot 2025-07-03 221951)
+
+
 
 ---
 

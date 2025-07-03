@@ -106,6 +106,3 @@ B.Tech Computer Science | Passionate about MERN Stack, AI, and clean code 💻
 
 This project is open for educational and portfolio use. Fork, build, and learn!
 
----
-
-> Made with ❤️ by Abhay Raj

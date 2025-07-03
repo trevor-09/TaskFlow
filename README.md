@@ -94,17 +94,18 @@ Built as part of a full-stack bootcamp project, the goal of TaskFlow is to demon
 
 ## 🙋‍♂️ Author
 
-**Abhay Raj**
-B.Tech Computer Science | Passionate about MERN Stack, AI, and clean code 💻
+👤 **Abhay Raj**
+🎓 B.Tech Computer Science Student
+💡 Passionate about MERN Stack, AI, and clean UI/UX development
 
-* 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
-* 📬 [abhayraj@example.com](mailto:abhayraj@example.com)
+📧 **Email**: [abhayraj@example.com](mailto:abhayraj@example.com)
+🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
 ## 🪄 License
 
-This project is open for educational and portfolio use. Fork, build, and learn!
+This project is open-source and available for educational and personal portfolio use. Feel free to fork, modify, and build upon it.
 
 ---
 

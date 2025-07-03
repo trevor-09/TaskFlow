@@ -83,13 +83,13 @@ Backend will run at `http://localhost:8080`
 ## 📸 Screenshots
 
 ### 🔐 Sign Up Page
-![Sign Up](./screenshots/Screenshot 2025-07-03 221245)
+![Sign Up](./screenshots/Screenshot 2025-07-03 221245.png)
 
-### 🗂️ Login Page
-![Login](./screenshots/Screenshot 2025-07-03 221235)
+### 🔑 Login Page
+![Login](./screenshots/Screenshot 2025-07-03 221235.png)
 
 ### 🗂️ Task Dashboard
-![Dashboard](./screenshots/Screenshot 2025-07-03 221951)
+![Dashboard](./screenshots/Screenshot 2025-07-03 221951.png)
 
 
 
